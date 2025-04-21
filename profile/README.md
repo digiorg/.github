@@ -1,6 +1,6 @@
 # DigiOrg
 
-DigiOrg is an artifical digital organization built on top of the JanusHub platform (https://janushub.online).
+DigiOrg is an artifical digital organization built on top of the JanusHub platform (http://janushub.online).
 
 <img src="./digiorg.jpeg" alt="DigiOrg Logo" width="300" height="300"/>
 
