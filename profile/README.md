@@ -26,13 +26,13 @@ Eine digitalisierte IT ist die Basis für digitale Geschäftsprozesse und Produk
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│           🏭 Industry Solutions Layer                    │
+│           🏭 Industry Solutions Layer                   │
 │              (Branchenspezifische Lösungen)             │
 ├─────────────────────────────────────────────────────────┤
-│           🔗 Business Integration Layer                  │
+│           🔗 Business Integration Layer                 │
 │         (Geschäftsprozess-Integration)                  │
 ├─────────────────────────────────────────────────────────┤
-│           ⚙️ Digital IT Foundation Layer                 │  ◄── Aktueller Fokus
+│           ⚙️ Digital IT Foundation Layer                │  ◄── Aktueller Fokus
 │    DevSecOps · IDP · CMDB · Multicloud Control Plane    │
 └─────────────────────────────────────────────────────────┘
 ```
@@ -68,13 +68,13 @@ A digitalized IT is the foundation for digital business processes and products. 
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│           🏭 Industry Solutions Layer                    │
+│           🏭 Industry Solutions Layer                   │
 │              (Industry-specific Solutions)              │
 ├─────────────────────────────────────────────────────────┤
-│           🔗 Business Integration Layer                  │
+│           🔗 Business Integration Layer                 │
 │           (Business Process Integration)                │
 ├─────────────────────────────────────────────────────────┤
-│           ⚙️ Digital IT Foundation Layer                 │  ◄── Current Focus
+│           ⚙️ Digital IT Foundation Layer                │  ◄── Current Focus
 │    DevSecOps · IDP · CMDB · Multicloud Control Plane    │
 └─────────────────────────────────────────────────────────┘
 ```
